@@ -7,7 +7,7 @@
 
 Cysic is home to the leading real-time ZK Proof Layer, featuring state-of-the-art hardware. Our mission is to hyperscale the ZK revoluttion by delivering Zero Knowledge Proofs with unmatched speed, simplicity, andcost-efficiency.
 
-To start the node we need referral codes, which can be found in [discord Cysic](https://discord.gg/hCbjdJDy) in the [invite-codes](https://discord.com/channels/1127954093990760539/1308397379954671696) channel . Verify, copy the referral code from the channel.  After that, connect your wallet on [Cysic testnet site](https://testnet.cysic.xyz/m/referral/invite) (We recommend using Keplr Wallet) and paste the referral code.
+To start the node we need referral codes, which can be found in [discord Cysic](https://discord.com/invite/cysic) in the [invite-codes](https://discord.com/channels/1127954093990760539/1308397379954671696) channel . Verify, copy the referral code from the channel.  After that, connect your wallet on [Cysic testnet site](https://testnet.cysic.xyz/m/referral/invite) (We recommend using Keplr Wallet) and paste the referral code.
 
 ![image](https://github.com/user-attachments/assets/ede42d96-bc95-49f5-b674-0cfd7dc4c8cd)
 
