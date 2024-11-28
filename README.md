@@ -34,7 +34,7 @@ Verifier Node requirements:
 - Ubuntu 22.04 or newer
 - 1CPU/1gbRAM/8SSD
 
-Installing the light version - Verifier
+### Installing the light version - Verifier
 
 Go into Ubuntu and update.
 ```
