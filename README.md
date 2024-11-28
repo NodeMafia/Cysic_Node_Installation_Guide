@@ -109,6 +109,14 @@ A list of all the screens:
 screen -ls
 ```
 
+## Links 
+
+https://cysic.xyz
+
+https://testnet.cysic.xyz/
+
+https://discord.com/invite/cysic
+
 ## NodeMafia. We hope our content is useful for you.
 ![image](https://github.com/user-attachments/assets/e0dc7aee-f823-41d2-a406-9e8837778964)
 
